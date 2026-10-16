@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 database-app-practice
 
 概要
@@ -8,3 +9,4 @@ COACHTECH 教材 Tutorial 9-3「データベース操作ハンズオン演習」
 - Laravel 10.x
 - MySQL
 - マイグレーション、シーダー
+=======
